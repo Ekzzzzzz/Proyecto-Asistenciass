@@ -1,4 +1,8 @@
-package Prueb_integ;
+package Prueb_integ.Test;
+
+import Prueb_integ.Logica.CodigoAutenticacion;
+import Prueb_integ.Logica.SistemaAsistenciaFacade;
+
 public class PruebaIntegracionSistema {
     public static void main(String[] args) {
         // Crear el sistema con autenticación basada en código

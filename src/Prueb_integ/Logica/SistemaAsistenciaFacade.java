@@ -1,9 +1,10 @@
-package Prueb_integ;
+package Prueb_integ.Logica;
+
 public class SistemaAsistenciaFacade {
     private RegistroAsistencia registroAsistencia;
     private ReporteAsistencia reporteAsistencia;
     private NotificacionAsistencia notificacionAsistencia;
-    Autenticacion autenticacion;
+    public Autenticacion autenticacion;
 
     // Constructor que utiliza el Factory para obtener el tipo de autenticación
     public SistemaAsistenciaFacade(String tipoAutenticacion) {

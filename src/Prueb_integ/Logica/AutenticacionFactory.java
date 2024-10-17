@@ -1,4 +1,5 @@
-package Prueb_integ;
+package Prueb_integ.Logica;
+
 public class AutenticacionFactory {
     // Método para crear instancias de autenticación basada en el tipo solicitado
     public Autenticacion crearAutenticacion(String tipo) {

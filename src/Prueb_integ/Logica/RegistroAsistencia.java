@@ -1,5 +1,7 @@
-package Prueb_integ;
+package Prueb_integ.Logica;
 import java.time.LocalDateTime;
+
+import Prueb_integ.DAO.AsistenciaDAO;
 
 public class RegistroAsistencia {
     private AsistenciaDAO asistenciaDAO;

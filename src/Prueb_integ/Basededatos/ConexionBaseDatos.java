@@ -1,4 +1,4 @@
-package Prueb_integ;
+package Prueb_integ.Basededatos;
 
 public class ConexionBaseDatos {
     private static ConexionBaseDatos instancia;

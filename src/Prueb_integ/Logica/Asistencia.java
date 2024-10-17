@@ -1,4 +1,4 @@
-package Prueb_integ;
+package Prueb_integ.Logica;
 import java.time.LocalDateTime;
 
 public class Asistencia {
@@ -9,6 +9,17 @@ public class Asistencia {
         this.estudianteId = estudianteId;
         this.fechaHora = fechaHora;
     }
+
+    
+    public void setEstudianteId(String estudianteId) {
+        this.estudianteId = estudianteId;
+    }
+
+
+    public void setFechaHora(LocalDateTime fechaHora) {
+        this.fechaHora = fechaHora;
+    }
+
 
     public String getEstudianteId() {
         return "";

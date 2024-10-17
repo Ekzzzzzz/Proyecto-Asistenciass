@@ -1,5 +1,7 @@
-package Prueb_integ;
+package Prueb_integ.Logica;
 import java.util.List;
+
+import Prueb_integ.DAO.AsistenciaDAO;
 
 public class ReporteAsistencia {
     private AsistenciaDAO asistenciaDAO;

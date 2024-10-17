@@ -1,7 +1,10 @@
-package Prueb_integ;
+package Prueb_integ.DAO;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
+
+import Prueb_integ.Basededatos.ConexionBaseDatos;
+import Prueb_integ.Logica.Asistencia;
 
 public class AsistenciaDAO {
     private ConexionBaseDatos conexion;

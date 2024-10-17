@@ -1,4 +1,4 @@
-package Prueb_integ;
+package Prueb_integ.Logica;
 import java.util.HashMap;
 import java.util.Map;
 

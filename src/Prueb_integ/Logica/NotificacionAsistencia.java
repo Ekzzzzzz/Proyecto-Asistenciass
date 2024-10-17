@@ -1,4 +1,4 @@
-package Prueb_integ;
+package Prueb_integ.Logica;
 public class NotificacionAsistencia {
     public void enviarNotificacion(String estudianteId) {
         // Simulación del envío de notificación
