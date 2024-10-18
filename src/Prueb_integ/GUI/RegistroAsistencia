@@ -1,0 +1,4 @@
+public interface RegistroAsistencia {
+    void registrarEntrada(int idEstudiante);
+    void registrarSalida(int idEstudiante);
+}

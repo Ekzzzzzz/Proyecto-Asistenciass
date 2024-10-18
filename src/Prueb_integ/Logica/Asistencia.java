@@ -29,5 +29,4 @@ public class Asistencia {
         return "";
     }
 
-    // Getters y Setters
 }
