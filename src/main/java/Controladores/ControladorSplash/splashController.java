@@ -9,19 +9,19 @@ import Modelos.Directorio.DirectoryConstants;
 import Modelos.Directorio.NormalDirectory;
 import Modelos.Hilos.HiloExecutor;
 import Servicios.alerta.Alerta;
+import app.runner;
 import javafx.application.Platform;
 import javafx.concurrent.Task;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-import main.main;
 
 import java.io.IOException;
 
 //splashcontroller
 public class splashController implements Runnable{
-    private main runer;
-    public splashController(main runer){
+    private runner runer;
+    public splashController(runner runer){
         this.runer = runer;
     }
 
