@@ -1,3 +1,0 @@
-public interface Autenticacion {
-    boolean autenticarUsuario(int idUsuario, String codigo);
-}

@@ -1,3 +1,0 @@
-public interface NotificacionAsistencia {
-    void enviarNotificacionInasistencia(int idEstudiante, String mensaje);
-}
