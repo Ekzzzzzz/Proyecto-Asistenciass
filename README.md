@@ -38,11 +38,6 @@ Este proyecto demuestra cómo se pueden aplicar principios de diseño de patrone
 * Maven
 * SQLite
 
-## Contribuciones
---------------
-
-Si deseas contribuir a este proyecto, por favor lee el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para obtener más información.
-
 ## Licencia
 ---------
 
