@@ -1,5 +1,3 @@
-
-
 package test.Tests;
 
 import Modelos.Conexion.ConexionIMP.sqliteConection;
@@ -25,7 +23,7 @@ class AsistenciaAlumnoDAOTest extends TestCase {
 
         IOManager ioManager = new IOManager();
 
-      ioManager.importar(new FileChooser().showOpenDialog(null));
+      //  ioManager.importar(new FileChooser().showOpenDialog(null));
 
 
 
